@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Logs and system files
+*.log
+*.json
+*.zip
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Machine Learning model files
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# Datasets & images (optional - remove if needed in repo)
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+*.csv
+*.tsv
+
+# VSCode settings (optional)
+.vscode/
+
+# Secrets
+.env
